@@ -1,0 +1,12 @@
+# Build outputs
+build/
+
+# IDE
+.idea/
+.mxproject
+Lora.ioc
+
+# Misc
+*.su
+*.o
+*.obj
